@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        PROJECT_ID = 'my-first-gcp-497310'
+        PROJECT_ID = 'hdfc-v-project'
     }
 
     stages {
